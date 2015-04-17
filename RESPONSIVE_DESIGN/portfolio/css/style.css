@@ -15,6 +15,7 @@ hr {
     margin-bottom: 26px;
 }
 
+
 .text-muted {
 	color: #BCBBBB;
 }
@@ -23,7 +24,11 @@ hr {
 	font-weight: 100;
 }
 
-.title-suoer {
+.text-bold {
+	font-weight: 900;
+}
+
+.title-super {
 	font-size: 60px;
 }
 
